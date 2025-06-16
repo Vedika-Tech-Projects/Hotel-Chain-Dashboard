@@ -19,6 +19,9 @@ _Key Insights_:-
 2. _Lack of Dynamic Pricing for Weekdays vs. Weekends_: Currently, pricing remains static throughout the week. Since occupancy rates are higher on weekends, implementing higher rates for weekends can help capture additional revenue.
 3. _No Seasonal or Festive Price Adjustments_: ADR remains largely uniform across all time periods, indicating no dynamic pricing strategy for peak seasons or festive periods. Introducing flexible pricing during high-demand times can significantly increase revenue potential.
 
+Screenshot:-
+https://github.com/Vedika-Tech-Projects/Hotel-Chain-Dashboard/blob/main/Snapshot_HotelChain_Dashboard.png
+
 
 
 
